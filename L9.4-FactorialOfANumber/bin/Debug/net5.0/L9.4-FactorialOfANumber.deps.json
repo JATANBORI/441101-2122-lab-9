@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "L9.4-FactorialOfANumber/1.0.0": {
+        "runtime": {
+          "L9.4-FactorialOfANumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L9.4-FactorialOfANumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
