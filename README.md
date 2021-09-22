@@ -1,1 +1,3 @@
-# 441101-2122-lab-9
+# Practice Lab 9 – methods
+
+The goal of this lab is to introduce you to methods. Methods are essential to keeping code organised and reducing the complexity of code. They do this by breaking a larger problem down into smaller problems. This isn’t the only purpose for methods. Methods become far more valuable when you can write them to be reusable. If a method is sufficiently abstract that it can be used in lots of different ways, that means that we can reduce the amount of code we write. Less code to write means less code to maintain and a reduced chance of bugs – with the added benefit that if there are bugs or changes that need to be made in the code, they only need to be made in one place.
